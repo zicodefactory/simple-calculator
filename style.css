@@ -1,0 +1,28 @@
+ input {
+
+   width: 120px;
+   height: 80px;
+   font-size: 60px;
+   border-radius: 10px;
+   background-color: #000;
+   color: #fff;
+   border-style: none;
+   margin: 10px;
+
+ }
+
+#calform {
+  margin:auto;
+  text-align: center;
+  /* margin-left: 350px; */
+  margin-top: 20px;
+  /* background-color: #58F7F7;
+  width: 600px; */
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  /* margin-left: 350px; */
+  font-size: 40px;
+}
